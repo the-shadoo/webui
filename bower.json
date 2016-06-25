@@ -1,0 +1,30 @@
+{
+  "name": "WebUI",
+  "description": "Web-UI is UI kit Framework inspired material design, bootstrap and ui-kit",
+  "main": "",
+  "keywords": [
+    "framework",
+    "ui",
+    "webui",
+    "bootstrap",
+    "material",
+    "design",
+    "ui",
+    "kit",
+    "frontend",
+    "framework"
+  ],
+  "authors": [
+    "theShadoO"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
